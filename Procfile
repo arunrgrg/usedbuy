@@ -1,0 +1,1 @@
+web: gunicorn vehicleshop.wsgi --log-file -
