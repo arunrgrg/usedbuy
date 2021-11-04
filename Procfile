@@ -1,1 +1,1 @@
-web: gunicorn vehicleshop.wsgi --log-file -
+web: gunicorn usedbuy.wsgi --log-file -
