@@ -69,7 +69,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'vehicleshop.wsgi.application'
+WSGI_APPLICATION = 'usedbuy.wsgi.application'
 
 
 # Database
